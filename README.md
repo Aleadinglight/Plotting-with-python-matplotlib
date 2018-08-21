@@ -2,6 +2,7 @@
 
 Using python matplotlib to visualize data
 
+## Implementation
 
 1. [Simple graph:](../master/SimpleGraph.ipynb) Ploting a simple graph with details and customization.
 
